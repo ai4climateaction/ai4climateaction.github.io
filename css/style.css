@@ -206,15 +206,15 @@
    
     .menubar {
       white-space: nowrap;
-      margin-top: 3em;
-      margin-bottom: 0;
-      margin-left: 34em;
+      margin-top: 1.5em;
+      margin-bottom: 1em;
+      margin-left: 26em;
       text-align: center;
       font-size: 16px;
     }
 
     .menubar a {
-      padding: 6px 12px;
+      padding: 4px 8px;
       margin: 0 6px;
       display: inline-block;
       text-decoration: none;
@@ -348,8 +348,8 @@
        div.person .person-thumbnail .person-avatar {
          overflow: hidden;
          border-radius: 50%;
-         height: 6em;
-         width: 6em;
+         height: 5em;
+         width: 5em;
          margin: 1em 2em 1em 0; }
        div.person .person-thumbnail .person-image {
          height: 100%;
