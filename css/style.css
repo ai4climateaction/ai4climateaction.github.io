@@ -206,9 +206,9 @@
    
     .menubar {
       white-space: nowrap;
-      margin-top: 1.5em;
+      margin-top: 2em;
       margin-bottom: 1em;
-      margin-left: 26em;
+      margin-left: 0em;
       text-align: center;
       font-size: 16px;
     }
