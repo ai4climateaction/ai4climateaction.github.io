@@ -261,6 +261,18 @@
    .schedule td {
        padding: 8px;
    }
+   .schedule td ul.readings {
+       margin: 0;
+       padding-left: 18px;
+       list-style-type: disc;
+   }
+   .schedule td ul.readings li {
+       margin-bottom: 6px;
+       line-height: 1.5;
+   }
+   .schedule td ul.readings li:last-child {
+       margin-bottom: 0;
+   }
    
    
    /* Notes */
