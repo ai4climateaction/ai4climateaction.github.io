@@ -246,7 +246,9 @@
        font-weight: bold;
        background-color: #DDD;
    }
-   
+   .schedule_gap {
+      background-color: #EEE;
+   }
    
    /* Schedule */
    
